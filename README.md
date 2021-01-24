@@ -1,2 +1,2 @@
 # Rpi-Pico-LINX
-LINX Interface for Raspberry Pi Pico
+LINX Interface for the Raspberry Pi Pico.
