@@ -1,2 +1,3 @@
 # Rpi-Pico-LINX
-LINX Interface for the Raspberry Pi Pico.
+LINX interface application for the Raspberry PI Pico. 
+The application can also be used on boards based on the Raspberry PI RP2040 microcontroller.
