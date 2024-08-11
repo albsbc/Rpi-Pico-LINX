@@ -2,8 +2,10 @@
 LINX interface application for the Raspberry PI Pico. 
 The application can also be used on boards based on the Raspberry PI RP2040 microcontroller.
 
-### V0.1 :         10th October 2021
+### V0.5 :         11th August 2024
 
 Support for Digital I/O, Analogue input, I2C, SPI, PWM, Servo and WS2812.
 
-Tested with the LINX 2014 and 2020 toolkits on Windows 10 and Raspberry PI.
+Tested with the LINX 2014 to 2024 toolkits on Windows 10 and Raspberry Pi.
+
+The next version will also support the new RP2350 microcontroller.
