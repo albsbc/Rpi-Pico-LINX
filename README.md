@@ -1,6 +1,6 @@
 # Rpi-Pico-LINX
 LINX interface application for the Raspberry PI Pico. 
-The application can also be used on boards based on the Raspberry PI RP2040 microcontroller.
+The application can also be used on boards based on the Raspberry PI RP2040 and RP2350 microcontrollers.
 
 ### V0.6 :         5th May 2025
 
